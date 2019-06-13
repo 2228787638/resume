@@ -1,0 +1,43 @@
+.info{
+	border: 1px solid white;
+}
+.header{
+	background: url('bg.png');
+	background-size:100%;height:500px;
+}
+.headercontainer{
+	padding-top: 80px;
+}
+#first{
+	background-color:#00BFFF;
+	margin: 50px;
+	border: 5px solid white;
+}
+#second{
+	background-color:#B0C4DE;
+	margin: 50px;
+	border: 5px solid white;
+}
+.footer{
+	padding: 30px;
+	background-color: black;
+}
+img{
+	border-radius:80px;
+}
+body{
+	text-align: center;
+}
+.headercontainer h1,.headercontainer h2,.headercontainer h4,p,div.title{
+	color: white;
+}
+#first .content p{
+	font-style: italic;
+	font-size: 20px;
+}
+#second .content p{
+	padding-left:100px;
+	padding-right:100px;
+	text-align: left;
+	font-size: 20px;
+}
